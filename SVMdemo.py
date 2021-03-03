@@ -1,10 +1,7 @@
 #!/usr/bin/python 
 
 import numpy as np 
-import math
-import sklearn 
 import matplotlib.pyplot as plt
-from mpl_toolkits import mplot3d
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import animation
 from sklearn.datasets.samples_generator import make_circles
